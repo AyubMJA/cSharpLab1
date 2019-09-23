@@ -1,0 +1,12 @@
+C:\Users\Ayub Ali\Documents\C# stuff\assignments\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+C:\Users\Ayub Ali\Documents\C# stuff\assignments\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.json
+C:\Users\Ayub Ali\Documents\C# stuff\assignments\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.dev.json
+C:\Users\Ayub Ali\Documents\C# stuff\assignments\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+C:\Users\Ayub Ali\Documents\C# stuff\assignments\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+C:\Users\Ayub Ali\Documents\C# stuff\assignments\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojAssemblyReference.cache
+C:\Users\Ayub Ali\Documents\C# stuff\assignments\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Ayub Ali\Documents\C# stuff\assignments\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\Ayub Ali\Documents\C# stuff\assignments\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+C:\Users\Ayub Ali\Documents\C# stuff\assignments\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+C:\Users\Ayub Ali\Documents\C# stuff\assignments\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb
+C:\Users\Ayub Ali\Documents\C# stuff\assignments\Lab1\bin\Debug\netcoreapp2.1\employees.csv
